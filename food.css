@@ -23,6 +23,13 @@
     border: 2px solid rgb(0, 0, 0);
     margin: auto auto;
 }
+.box4{
+    width: 284px;
+    height: auto;
+    padding: 6px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto auto;
+}
 .heading{
     text-align: center;
     padding-bottom: 3px;
