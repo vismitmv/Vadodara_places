@@ -1,0 +1,37 @@
+*{
+    background-color:rgb(244, 231, 211);
+}
+.box1{
+    width: 400px;
+    height: auto;
+    padding: 6px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto auto;
+}
+.box2{
+    width: 680px;
+    height: auto;
+    padding: 6px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto auto;
+}
+.box3{
+    width: 275px;
+    height: auto;
+    padding: 6px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto auto;
+}
+.heading{
+    text-align: center;
+    padding-bottom: 3px;
+}
+p{
+    max-width: 900px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: auto auto;
+    color: rgb(0, 0, 0);
+    padding-bottom: 5px;
+}
