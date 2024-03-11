@@ -22,6 +22,35 @@
     border: 2px solid rgb(0, 0, 0);
     margin: auto auto;
 }
+.box4{
+    width: 770px;
+    height: auto;
+    padding: 2px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto auto;
+}
+.box5{
+    width: 300px;
+    height: auto;
+    padding: 3px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto auto;
+}
+.box6{
+    width: 260px;
+    height: auto;
+    padding: 3px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto auto;
+}
+.box7{
+    width: 640px;
+    height: auto;
+    padding: 3px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: auto auto;
+}
+
 .heading{
     text-align: center;
     padding-bottom: 3px;
